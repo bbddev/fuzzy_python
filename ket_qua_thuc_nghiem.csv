@@ -1,0 +1,62 @@
+﻿STT,Mô tả,Số lần xem,Danh mục,Điểm danh mục,Chiết khấu (%),Điểm xu hướng,Xu hướng mua sắm
+1,Tất cả giá trị thấp nhất,0,Nhu yếu phẩm,0.0,0,11.67,Mua ít
+2,Tất cả giá trị cao nhất,100,Điện tử,10.0,100,88.33,Mua nhiều
+3,Xem nhiều nhưng không giảm giá,100,Thời trang,5.0,0,50.0,Mua vừa
+4,Xem ít nhưng giảm giá cao,0,Thời trang,5.0,100,50.0,Mua vừa
+5,"Nhu yếu phẩm: Xem thấp, Giảm giá thấp",15,Nhu yếu phẩm,1.5,15,13.61,Mua ít
+6,"Nhu yếu phẩm: Xem thấp, Giảm giá trung bình",15,Nhu yếu phẩm,1.5,50,12.86,Mua ít
+7,"Nhu yếu phẩm: Xem thấp, Giảm giá cao",15,Nhu yếu phẩm,1.5,85,50.0,Mua vừa
+8,"Nhu yếu phẩm: Xem trung bình, Giảm giá thấp",50,Nhu yếu phẩm,1.5,15,13.61,Mua ít
+9,"Nhu yếu phẩm: Xem trung bình, Giảm giá trung bình",50,Nhu yếu phẩm,1.5,50,50.0,Mua vừa
+10,"Nhu yếu phẩm: Xem trung bình, Giảm giá cao",50,Nhu yếu phẩm,1.5,85,50.0,Mua vừa
+11,"Nhu yếu phẩm: Xem cao, Giảm giá thấp",85,Nhu yếu phẩm,1.5,15,50.0,Mua vừa
+12,"Nhu yếu phẩm: Xem cao, Giảm giá trung bình",85,Nhu yếu phẩm,1.5,50,50.0,Mua vừa
+13,"Nhu yếu phẩm: Xem cao, Giảm giá cao",85,Nhu yếu phẩm,1.5,85,86.39,Mua nhiều
+14,"Thời trang: Xem thấp, Giảm giá thấp",15,Thời trang,5.0,15,13.61,Mua ít
+15,"Thời trang: Xem thấp, Giảm giá trung bình",15,Thời trang,5.0,50,12.86,Mua ít
+16,"Thời trang: Xem thấp, Giảm giá cao",15,Thời trang,5.0,85,50.0,Mua vừa
+17,"Thời trang: Xem trung bình, Giảm giá thấp",50,Thời trang,5.0,15,13.61,Mua ít
+18,"Thời trang: Xem trung bình, Giảm giá trung bình",50,Thời trang,5.0,50,50.0,Mua vừa
+19,"Thời trang: Xem trung bình, Giảm giá cao",50,Thời trang,5.0,85,86.39,Mua nhiều
+20,"Thời trang: Xem cao, Giảm giá thấp",85,Thời trang,5.0,15,50.0,Mua vừa
+21,"Thời trang: Xem cao, Giảm giá trung bình",85,Thời trang,5.0,50,87.14,Mua nhiều
+22,"Thời trang: Xem cao, Giảm giá cao",85,Thời trang,5.0,85,86.39,Mua nhiều
+23,"Điện tử: Xem thấp, Giảm giá thấp",15,Điện tử,8.5,15,13.61,Mua ít
+24,"Điện tử: Xem thấp, Giảm giá trung bình",15,Điện tử,8.5,50,50.0,Mua vừa
+25,"Điện tử: Xem thấp, Giảm giá cao",15,Điện tử,8.5,85,50.0,Mua vừa
+26,"Điện tử: Xem trung bình, Giảm giá thấp",50,Điện tử,8.5,15,50.0,Mua vừa
+27,"Điện tử: Xem trung bình, Giảm giá trung bình",50,Điện tử,8.5,50,50.0,Mua vừa
+28,"Điện tử: Xem trung bình, Giảm giá cao",50,Điện tử,8.5,85,86.39,Mua nhiều
+29,"Điện tử: Xem cao, Giảm giá thấp",85,Điện tử,8.5,15,50.0,Mua vừa
+30,"Điện tử: Xem cao, Giảm giá trung bình",85,Điện tử,8.5,50,87.14,Mua nhiều
+31,"Điện tử: Xem cao, Giảm giá cao",85,Điện tử,8.5,85,86.39,Mua nhiều
+32,Ảnh hưởng số lần xem: 0,0,Thời trang,5.0,50,11.67,Mua ít
+33,Ảnh hưởng số lần xem: 10,10,Thời trang,5.0,50,12.25,Mua ít
+34,Ảnh hưởng số lần xem: 20,20,Thời trang,5.0,50,13.61,Mua ít
+35,Ảnh hưởng số lần xem: 30,30,Thời trang,5.0,50,38.03,Mua vừa
+36,Ảnh hưởng số lần xem: 40,40,Thời trang,5.0,50,50.0,Mua vừa
+37,Ảnh hưởng số lần xem: 50,50,Thời trang,5.0,50,50.0,Mua vừa
+38,Ảnh hưởng số lần xem: 60,60,Thời trang,5.0,50,50.0,Mua vừa
+39,Ảnh hưởng số lần xem: 70,70,Thời trang,5.0,50,61.97,Mua vừa
+40,Ảnh hưởng số lần xem: 80,80,Thời trang,5.0,50,86.39,Mua nhiều
+41,Ảnh hưởng số lần xem: 90,90,Thời trang,5.0,50,87.75,Mua nhiều
+42,Ảnh hưởng số lần xem: 100,100,Thời trang,5.0,50,88.33,Mua nhiều
+43,Ảnh hưởng chiết khấu: 0%,50,Thời trang,5.0,0,11.67,Mua ít
+44,Ảnh hưởng chiết khấu: 10%,50,Thời trang,5.0,10,12.64,Mua ít
+45,Ảnh hưởng chiết khấu: 20%,50,Thời trang,5.0,20,14.78,Mua ít
+46,Ảnh hưởng chiết khấu: 30%,50,Thời trang,5.0,30,50.0,Mua vừa
+47,Ảnh hưởng chiết khấu: 40%,50,Thời trang,5.0,40,50.0,Mua vừa
+48,Ảnh hưởng chiết khấu: 50%,50,Thời trang,5.0,50,50.0,Mua vừa
+49,Ảnh hưởng chiết khấu: 60%,50,Thời trang,5.0,60,50.0,Mua vừa
+50,Ảnh hưởng chiết khấu: 70%,50,Thời trang,5.0,70,50.0,Mua vừa
+51,Ảnh hưởng chiết khấu: 80%,50,Thời trang,5.0,80,85.22,Mua nhiều
+52,Ảnh hưởng chiết khấu: 90%,50,Thời trang,5.0,90,87.36,Mua nhiều
+53,Ảnh hưởng chiết khấu: 100%,50,Thời trang,5.0,100,88.33,Mua nhiều
+54,"Người dùng ít quan tâm, nhu yếu phẩm, giảm giá thấp",5,Nhu yếu phẩm,2.0,5,13.61,Mua ít
+55,"Người dùng quan tâm vừa, thời trang, giảm giá trung bình",25,Thời trang,5.0,30,30.3,Mua ít
+56,"Người dùng rất quan tâm, điện tử, giảm giá cao",95,Điện tử,9.0,85,86.39,Mua nhiều
+57,"Người dùng quan tâm nhiều, thời trang/điện tử, giảm giá khá",70,Thời trang,6.5,60,61.97,Mua vừa
+58,"Người dùng quan tâm vừa, nhu yếu phẩm, giảm giá thấp-trung bình",40,Nhu yếu phẩm,3.0,25,36.47,Mua vừa
+59,"Người dùng quan tâm nhiều, thời trang, giảm giá cao",88,Thời trang,4.5,75,83.91,Mua nhiều
+60,"Người dùng ít quan tâm, điện tử, giảm giá thấp",12,Điện tử,8.0,15,13.61,Mua ít
+61,"Người dùng quan tâm vừa-nhiều, nhu yếu phẩm, giảm giá trung bình",55,Nhu yếu phẩm,1.5,40,50.0,Mua vừa
