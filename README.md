@@ -251,7 +251,7 @@ print(data)
 
 ### 1. Hàm thuộc (Membership Functions)
 
-![Membership Functions](bieu_do_8_membership_functions.png)
+![Membership Functions](bieu_do_0_ham_thuoc.png)
 
 - Tam giác cân đối, chuyển tiếp mượt
 
